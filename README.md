@@ -29,26 +29,30 @@
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td>200个</td>
-      <td>2023.8.26</td>
+      <td>2023.9.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td>120个</td>
-      <td>2023.8.13</td>
+      <td>2023.8.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
       <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
-      <td>317个</td>
-      <td>2023.5.3</td>
+      <td>304个</td>
+      <td>2023.8.27</td>
     </tr>
   </tbody>
 </table>
 
 ## 🛠️工具
-- 🆕EPG接口地址：
+- 📆EPG接口地址：
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
+- 🆕Bing每日图片：
+  -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
+- 🎞️m3u8下载工具：
+  -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
 - 📄M3U To TXT：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐M3U8 Web Player
@@ -65,8 +69,8 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.8.26
-  - Global源添加了一个测试频道，去掉了无法播放的频道。
+- 2023.9.20
+  - Global源去掉了空白频道信息。删除了失效的频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
